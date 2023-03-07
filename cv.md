@@ -19,7 +19,7 @@ I am from the sunny city of Tashkent, Uzbekistan. I am 35 years old. At the mome
 * Adobe Photoshop
 * HTML5, CSS3 
 * JavaScript Basics
-* * *
+---
 
 ### Code example
 ```
